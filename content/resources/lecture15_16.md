@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Lecture notes covering the following topics: Authenticated Key Exchange
   and Secure-Session Protocols, and UC Formulation of Publick-Key Encryption.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-897-selected-topics-in-cryptography-spring-2004/ae82aec6a064aa908c867ac65190baee_lecture15_16.pdf
+file: /media/courses/6-897-selected-topics-in-cryptography-spring-2004/ae82aec6a064aa908c867ac65190baee_lecture15_16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture15_16.pdf
 uid: ae82aec6-a064-aa90-8c86-7ac65190baee
