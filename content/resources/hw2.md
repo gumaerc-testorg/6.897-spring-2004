@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This homework assignment consists of two problems.
-file: /media/courses/6-897-selected-topics-in-cryptography-spring-2004/f53e866a3a05c7a2cd5ffdfc24bf629c_hw2.pdf
+file: /courses/6-897-selected-topics-in-cryptography-spring-2004/f53e866a3a05c7a2cd5ffdfc24bf629c_hw2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hw2.pdf
 uid: f53e866a-3a05-c7a2-cd5f-fdfc24bf629c
 ---
+This homework assignment consists of two problems.
+
