@@ -6,6 +6,7 @@ file: /courses/6-897-selected-topics-in-cryptography-spring-2004/54c8ad9cb1e551e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw3.pdf
 uid: 54c8ad9c-b1e5-51e7-e09f-745bf98c3915
 ---
 This homework assignment asks the student to write a "referee's report" on the paper "Verifiable Mixing (Shuffling) of El-Gamal Pairs".
-
