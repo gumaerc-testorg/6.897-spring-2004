@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f913281f-5eb5-c04f-26ff-8e2a8bd4853f
 ---
@@ -121,7 +125,7 @@ _Relevant Readings_
   
 Chaum, D. "[Secret-Ballot Receipts: True Voter Verifiable Elections](http://dx.doi.org/10.1109/MSECP.2004.1264852)." _IEEE Security and Privacy_, Vol. 2, no. 1. Piscataway, NJ: IEEE Press, 2004, pp. 38-47.  
   
-Bryans, J., and P. Ryan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Dependability Analysis of the Chaum Voting Scheme." (PDF)](http://courses.csail.mit.edu/6.897/spring04/BryansRyan-ADependabilityAnalysisOfTheChaumDigitalVotingScheme.pdf) Technical Report CS-TR-809. United Kingdom: Newcastle University School of Computing Science, 2003.
+Bryans, J., and P. Ryan. ["A Dependability Analysis of the Chaum Voting Scheme." (PDF)](http://courses.csail.mit.edu/6.897/spring04/BryansRyan-ADependabilityAnalysisOfTheChaumDigitalVotingScheme.pdf) Technical Report CS-TR-809. United Kingdom: Newcastle University School of Computing Science, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
