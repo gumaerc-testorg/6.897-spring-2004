@@ -4,6 +4,7 @@ description: 'Lecture notes covering the following topics: UC Key-Exchange and S
   Channels. (Based on [CK02]), and  UC Encryption and Equivalence with Security Against
   Adaptive Chosen Ciphertext Attacks (CCA). Replayable CCA Encryption. (Based on [CKN03].)'
 file: /courses/6-897-selected-topics-in-cryptography-spring-2004/8cb5438de900db2ec76766fc39d04b08_lecture13_14.pdf
+file_size: 158280
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

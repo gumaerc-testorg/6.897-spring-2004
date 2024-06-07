@@ -3,6 +3,7 @@ content_type: resource
 description: 'Problem set related to the following topics: Equivalence of Zero-Knowledge
   arguments of knowl?edge and protocols, and Universal composition of arbitrary functionalities.'
 file: /courses/6-897-selected-topics-in-cryptography-spring-2004/3c9e96329318b60014247e5e789ebe75_hw1.pdf
+file_size: 45669
 file_type: application/pdf
 learning_resource_types:
 - Assignments
