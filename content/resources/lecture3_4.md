@@ -5,6 +5,7 @@ description: 'Lecture notes covering the following topics: Example: Casting Zero
   Composability of Zero-Knowledge, and The Universally Composable (UC) Security Framework:
   Motivation and the Basic Definition (based on [C01]).'
 file: /courses/6-897-selected-topics-in-cryptography-spring-2004/1d52d1e1de07e4fd8cf3ea9e3f689583_lecture3_4.pdf
+file_size: 175551
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

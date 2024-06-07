@@ -5,6 +5,7 @@ description: 'Lecture notes covering the following topics: Overview of the Cours
   lines of [C00]): Motivation for the Ideal-Model Paradigm. The Basic Definition,
   and Variants of the Basic Definition. Non-Concurrent Composition.'
 file: /courses/6-897-selected-topics-in-cryptography-spring-2004/0dfd54053823c507a9a117d910d31ff5_lecture1_2.pdf
+file_size: 179261
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
