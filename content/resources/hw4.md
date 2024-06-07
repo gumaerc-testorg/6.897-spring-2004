@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set related to to pairing-based cryptography.
 file: /courses/6-897-selected-topics-in-cryptography-spring-2004/394da6c040bb7de6d30e02de0fdede3a_hw4.pdf
+file_size: 11402
 file_type: application/pdf
 learning_resource_types:
 - Assignments
