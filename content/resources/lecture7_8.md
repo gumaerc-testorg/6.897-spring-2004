@@ -5,7 +5,7 @@ description: 'Lecture notes covering the following topics: Alternative Formulati
   in the UC Framework, and UC Commitments: Motivation. The Ideal Commitment Functionality.
   Impossibility of Realizations in the Plain Model. A Protocol in the Common Reference
   String (CRS) Model (Based on [CF01]).'
-file: /courses/6-897-selected-topics-in-cryptography-spring-2004/4a4bd69a1e3c2fe6208174e2d38a9146_lecture7_8.pdf
+file: /ol-ocw-studio-app/courses/6-897-selected-topics-in-cryptography-spring-2004/4a4bd69a1e3c2fe6208174e2d38a9146_lecture7_8.pdf
 file_size: 223223
 file_type: application/pdf
 learning_resource_types:
