@@ -2,7 +2,7 @@
 content_type: resource
 description: This homework assignment asks the student to write a "referee's report"
   on the paper "Verifiable Mixing (Shuffling) of El-Gamal Pairs".
-file: /ol-ocw-studio-app/courses/6-897-selected-topics-in-cryptography-spring-2004/54c8ad9cb1e551e7e09f745bf98c3915_hw3.pdf
+file: /courses/6-897-selected-topics-in-cryptography-spring-2004/54c8ad9cb1e551e7e09f745bf98c3915_hw3.pdf
 file_size: 13735
 file_type: application/pdf
 learning_resource_types:

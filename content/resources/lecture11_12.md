@@ -5,7 +5,7 @@ description: 'Lecture notes covering the following topics: Secure Realization of
   Adaptive, Two-Party, Multi-Party.) The Case of Honest Majority, and UC Signatures.
   Equivalence with Existential Unforgeability Against Chosen Message Attacks (As in
   [GMRi88]). Usage for Certification and Authentication.'
-file: /ol-ocw-studio-app/courses/6-897-selected-topics-in-cryptography-spring-2004/6aa50cb7e6aeef47b490d1174ad544a9_lecture11_12.pdf
+file: /courses/6-897-selected-topics-in-cryptography-spring-2004/6aa50cb7e6aeef47b490d1174ad544a9_lecture11_12.pdf
 file_size: 203738
 file_type: application/pdf
 learning_resource_types:

@@ -5,7 +5,7 @@ description: 'Lecture notes covering the following topics: The Multi-Commitment 
   Joint State, and Secure Realization of any Multi-Party Functionality with any Number
   of Faults (Based on [GMW87, G98, CLOS02]): The Semi-Honest Case. (Static, Adaptive,
   Two-Party, Multi-Party.)'
-file: /ol-ocw-studio-app/courses/6-897-selected-topics-in-cryptography-spring-2004/054e4a5552a39239b46a1e5a5c09cf13_lecture9_10.pdf
+file: /courses/6-897-selected-topics-in-cryptography-spring-2004/054e4a5552a39239b46a1e5a5c09cf13_lecture9_10.pdf
 file_size: 264445
 file_type: application/pdf
 learning_resource_types:
