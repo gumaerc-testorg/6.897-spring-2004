@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This homework assignment consists of two problems.
-file: /ol-ocw-studio-app/courses/6-897-selected-topics-in-cryptography-spring-2004/f53e866a3a05c7a2cd5ffdfc24bf629c_hw2.pdf
+file: /courses/6-897-selected-topics-in-cryptography-spring-2004/f53e866a3a05c7a2cd5ffdfc24bf629c_hw2.pdf
 file_size: 38393
 file_type: application/pdf
 learning_resource_types:
